@@ -1,4 +1,4 @@
-# 
+# Custom GitHub Desktop scripts for Mac OS | Official GitHub Desktop scripts for PC Windows. Featuring query-editor and request-collections — optimized for maximum performance on every platform.
 
 
 
